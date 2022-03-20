@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "313109e906e24555",
+        "id": "db4a30f0136f87bc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
-        "group": "a36bf8bf856ee6f4"
+        "group": "99d7a7bff869070b"
       },
       {
-        "id": "c183b899af288838",
+        "id": "4a2121cc719545c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
-        "group": "a36bf8bf856ee6f4"
+        "group": "99d7a7bff869070b"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Main.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e732d9a42b58ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313109e906e24555",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "313109e906e24555",
+  "active": "db4a30f0136f87bc",
   "lastOpenFiles": [
-    "README.md"
+    "Main.md",
+    "math/Calculus.md",
+    "computer science (advanced)/Machine Learning.md",
+    "math/Math.md",
+    "math/Statistics.md",
+    "math/Discrete Math.md",
+    "software engineering/Software Engineering.md",
+    "README.md",
+    "software engineering/DevOps and Site Reliability.md",
+    "software engineering/Microservices.md"
   ]
 }
