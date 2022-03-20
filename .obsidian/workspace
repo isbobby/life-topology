@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "db4a30f0136f87bc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main.md",
-            "mode": "source"
-          }
-        },
-        "group": "99d7a7bff869070b"
-      },
-      {
         "id": "4a2121cc719545c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "computer science/data structure and algorithms/graph/Shortest-Path Algorithms.md",
+            "mode": "source"
+          }
+        },
+        "group": "a6b61ae503865d11"
+      },
+      {
+        "id": "a9ad76f2770901a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "computer science/data structure and algorithms/graph/Shortest-Path Algorithms.md",
             "mode": "preview"
           }
         },
-        "group": "99d7a7bff869070b"
+        "group": "a6b61ae503865d11"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "computer science/data structure and algorithms/graph/Shortest-Path Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "computer science/data structure and algorithms/graph/Shortest-Path Algorithms.md"
               }
             }
           }
@@ -122,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db4a30f0136f87bc",
+  "active": "4a2121cc719545c6",
   "lastOpenFiles": [
+    "computer science/data structure and algorithms/graph/Shortest-Path Algorithms.md",
+    "computer science/data structure and algorithms/graph/Graph Algorithms.md",
+    "computer science/data structure and algorithms/Data Structure and Algorithms.md",
+    "computer science/data structure and algorithms/graph/Topological Sort.md",
+    "README.md",
     "Main.md",
     "math/Calculus.md",
     "computer science (advanced)/Machine Learning.md",
     "math/Math.md",
-    "math/Statistics.md",
-    "math/Discrete Math.md",
-    "software engineering/Software Engineering.md",
-    "README.md",
-    "software engineering/DevOps and Site Reliability.md",
-    "software engineering/Microservices.md"
+    "math/Statistics.md"
   ]
 }

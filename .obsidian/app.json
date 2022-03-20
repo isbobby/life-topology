@@ -1,4 +1,11 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "acyclic"
+  ]
 }
