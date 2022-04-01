@@ -7,5 +7,7 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "acyclic"
-  ]
+  ],
+  "foldIndent": true,
+  "foldHeading": true
 }

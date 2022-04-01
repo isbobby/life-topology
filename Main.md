@@ -24,7 +24,7 @@ This section contains knowledge derived from the fundamentals of computer scienc
 This section contains the engineering aspect of computer science. Most of its concepts are derived from computer science fundamentals.
 ## [[Software Design]]
 ### [[Software Design Patterns]]
-### [[Software Achitecture Patterns]]
+### [[Software Architecture Patterns]]
 ### [[Designing Data Intensive Software]]
 ### [[Building Secure and Reliable Systems]]
 ### [[Microservices]]
