@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2121cc719545c6",
+        "id": "9d05695188e6dd9d",
         "type": "leaf",
-        "dimension": 50.417469492613996,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer science/operating system/computer system overview/Computer System Overview.md",
+            "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
             "mode": "source"
           }
-        },
-        "group": "a6b61ae503865d11"
-      },
-      {
-        "id": "a9ad76f2770901a2",
-        "type": "leaf",
-        "dimension": 49.582530507386,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "computer science/operating system/computer system overview/Computer System Overview.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a6b61ae503865d11"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.51218795776367
+    "width": 242.5
   },
   "right": {
     "id": "290d2553291f2495",
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/operating system/computer system overview/Computer System Overview.md",
+                "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science/operating system/computer system overview/Computer System Overview.md"
+                "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md"
               }
             }
           }
@@ -122,19 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.266845703125
+    "width": 252.5,
+    "collapsed": true
   },
-  "active": "4a2121cc719545c6",
+  "active": "9d05695188e6dd9d",
   "lastOpenFiles": [
-    "computer science/operating system/computer system overview/Computer System Overview.md",
-    "computer science/operating system/computer system overview/Interrupts.md",
-    "Todo Log.md",
+    "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
+    "software engineering/DevOps and SRE/Datadog/Datadog.md",
     "Main.md",
-    "computer science/operating system/Operating Systems.md",
-    "computer science/Computer Science Fundamentals.md",
-    "README.md",
-    "computer science/operating system/memory/Memory Management.md",
-    "computer science/operating system/memory/Virtual Memory.md",
-    "computer science/computer networking/Computer Networking.md"
+    "computer science/programming languages/Ruby/Rakefile.md",
+    "computer science/programming languages/Ruby/Ruby.md",
+    "computer science/programming languages/Ruby/Ruby Expressions.md",
+    "computer science/programming languages/Ruby/Ruby Crystallized.md",
+    "computer science/programming languages/Ruby/Ruby Modules.md",
+    "computer science/programming languages/Ruby/Ruby Containers, Blocks and Iterators.md",
+    "Untitled.md"
   ]
 }
