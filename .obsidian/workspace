@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
+            "file": "software engineering/DevOps and SRE/Datadog/Datadog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
+                "file": "software engineering/DevOps and SRE/Datadog/Datadog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software engineering/DevOps and SRE/DevOps and Site Reliability.md"
+                "file": "software engineering/DevOps and SRE/Datadog/Datadog.md"
               }
             }
           }
@@ -112,8 +112,8 @@
   },
   "active": "9d05695188e6dd9d",
   "lastOpenFiles": [
-    "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
     "software engineering/DevOps and SRE/Datadog/Datadog.md",
+    "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
     "Main.md",
     "computer science/programming languages/Ruby/Rakefile.md",
     "computer science/programming languages/Ruby/Ruby.md",
