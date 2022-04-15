@@ -1,2 +1,3 @@
-- [ ] [[Computer System Overview]] - Basic elements of computer system
-- [ ] [[Computer System Overview]] - Interrupt helps with utilization, Memory Hierarchy access speed
+- [ ] [[Computer System Overview]] - Basic elements of computer system, next up is memory hierarchy
+- [ ] [[Disjoint Sets Class]] - finish reading and understand use cases. Finished up until simple union operation
+- [ ] [[Designing Data Intensive Software]] : [[Scalability of Data Systems]] measuring performance
