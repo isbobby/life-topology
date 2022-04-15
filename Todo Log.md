@@ -1,2 +1,2 @@
 - [ ] [[Computer System Overview]] - Basic elements of computer system
-- [ ] [[Computer System Overview]] - Think about the potential problems and code solutions, link to Github
+- [ ] [[Computer System Overview]] - Interrupt helps with utilization, Memory Hierarchy access speed
