@@ -14,7 +14,13 @@
     "namespaces",
     "Rakefile",
     "Gemfile",
-    "Datadog"
+    "Datadog",
+    "datapoints",
+    "datapoint",
+    "disjointness",
+    "Observability",
+    "observability",
+    "backend"
   ],
   "foldIndent": true,
   "foldHeading": true

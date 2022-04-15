@@ -1,2 +1,3 @@
-- [ ] [[Computer System Overview]] - Basic elements of computer system
-- [ ] [[Computer System Overview]] - Think about the potential problems and code solutions, link to Github
+- [ ] [[Computer System Overview]] - Basic elements of computer system, next up is memory hierarchy
+- [ ] [[Disjoint Sets Class]] - finish reading and understand use cases. Finished up until simple union operation
+- [ ] [[Designing Data Intensive Software]] : [[Scalability of Data Systems]] measuring performance

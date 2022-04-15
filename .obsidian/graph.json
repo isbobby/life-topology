@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"computer science\"",
@@ -18,14 +18,14 @@
       "query": "path:\"computer science (advanced)\"",
       "color": {
         "a": 1,
-        "rgb": 13948508
+        "rgb": 6084280
       }
     },
     {
       "query": "path:\"software engineering\"",
       "color": {
         "a": 1,
-        "rgb": 14072924
+        "rgb": 6078166
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.367803069317128,
   "linkDistance": 250,
-  "scale": 0.17771831507437064,
+  "scale": 0.17269447065516558,
   "close": true
 }
