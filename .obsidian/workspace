@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer science/operating system/computer system overview/Computer System Overview.md",
+            "file": "computer science/operating system/computer system overview/Memory Hierarchy.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer science/operating system/computer system overview/Computer System Overview.md",
+            "file": "computer science/operating system/computer system overview/Memory Hierarchy.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science/operating system/computer system overview/Computer System Overview.md",
+                "file": "computer science/operating system/computer system overview/Memory Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science/operating system/computer system overview/Computer System Overview.md"
+                "file": "computer science/operating system/computer system overview/Memory Hierarchy.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "4a2121cc719545c6",
   "lastOpenFiles": [
+    "computer science/operating system/computer system overview/Memory Hierarchy.md",
     "computer science/operating system/computer system overview/Computer System Overview.md",
-    "computer science/operating system/computer system overview/Interrupts.md",
     "Todo Log.md",
+    "computer science/operating system/computer system overview/Interrupts.md",
     "Main.md",
     "computer science/operating system/Operating Systems.md",
     "computer science/Computer Science Fundamentals.md",
     "README.md",
     "computer science/operating system/memory/Memory Management.md",
-    "computer science/operating system/memory/Virtual Memory.md",
-    "computer science/computer networking/Computer Networking.md"
+    "computer science/operating system/memory/Virtual Memory.md"
   ]
 }

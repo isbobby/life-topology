@@ -26,10 +26,22 @@ A special register - the **program counter (PC)** keeps track of the memory loca
 ## [[Interrupts]]
 All computers provide a mechanism by which other modules (I/O, memory) may interrupt the normal sequencing of the processor. The main objective of providing interrupts mechanism is to improve processor utilization.
 
-## Memory Hierarchy
+## [[Memory Hierarchy]]
+The main design constraints present for computer's memory are - capacity, speed and cost (money).  These design constraints limit each other 
+
+- Faster access time, greater cost per bit
+- Greater capacity, smaller cost per bit
+- Greater capacity, slower access speed
+
+The above relationships result in a [[Memory Hierarchy]], as one goes down the hierarchy, the following occur
+
+- Decreasing cost per bit
+- Increasing capacity
+- Increasing access time
+- Decreasing frequency of access to the memory by the processor
 
 ## Cache Memory
 
 ## Direct Memory Access
 
-## Multiprocessor and Multicore Organization
+## Multiprocessor and Multi-core Organization
