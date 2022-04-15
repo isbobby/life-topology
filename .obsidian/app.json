@@ -6,7 +6,15 @@
   "showLineNumber": false,
   "spellcheck": true,
   "spellcheckDictionary": [
-    "acyclic"
+    "acyclic",
+    "namespace",
+    "Namespaces",
+    "mixin",
+    "Mixins",
+    "namespaces",
+    "Rakefile",
+    "Gemfile",
+    "Datadog"
   ],
   "foldIndent": true,
   "foldHeading": true
