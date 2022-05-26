@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo Log.md",
+            "file": "math/Discrete Math.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo Log.md",
+                "file": "math/Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo Log.md"
+                "file": "math/Discrete Math.md"
               }
             }
           }
@@ -112,15 +112,15 @@
   },
   "active": "1da91abfb11268d7",
   "lastOpenFiles": [
-    "Todo Log.md",
-    "software engineering/DevOps and SRE/Datadog/Datadog Metrics Query with Ruby.md",
-    "software engineering/DevOps and SRE/Datadog/Datadog.md",
+    "math/Discrete Math.md",
     "software engineering/System Design/Data systems/Foundations of Data Systems/Scalability of Data Systems.md",
-    "software engineering/System Design/Data systems/Designing Data Intensive Software.md",
     "software engineering/System Design/Data systems/Foundations of Data Systems/Reliability for Data Systems.md",
-    "software engineering/DevOps and SRE/DevOps and Site Reliability.md",
-    "software engineering/DevOps and SRE/Software Observability.md",
-    "software engineering/System Design/Microservices.md",
-    "software engineering/System Design/Data systems/Foundations of Data Systems/Maintainability.md"
+    "software engineering/Software Design/Software Design Patterns.md",
+    "software engineering/Software Design/Software Achitecture Patterns.md",
+    "computer science (advanced)/Computer Science (Advanced).md",
+    "software engineering/System Design/Data systems/Foundations of Data Systems/Maintainability.md",
+    "README.md",
+    "Main.md",
+    "Todo Log.md"
   ]
 }
