@@ -7,11 +7,8 @@
         "id": "1da91abfb11268d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "math/Discrete Math.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Discrete Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Discrete Math.md"
-              }
+              "state": {}
             }
           }
         ]
