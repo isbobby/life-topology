@@ -6,7 +6,6 @@ Sequence can be defined as a function whose domain is either all the integers be
 Commonly used sequences are the summation, product, factorial and N choose R notations.
 
 # [[Mathematical Induction]]
-                                                                                                                                                                                                                                                                                                                                                                    
-
+The main tool used to prove the correctness of a mathematical sequence is mathematical induction. Mathematical induction is a three step process.
 
 # [[Recursion]]

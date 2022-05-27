@@ -7,8 +7,11 @@
         "id": "d3f16087a86c7985",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "math/discrete math/sequences, mi and recursion/Mathematical Induction.md",
+            "mode": "source"
+          }
         },
         "group": "43540d7bdcd6e890"
       },
@@ -16,8 +19,11 @@
         "id": "a2a78cc674e06545",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "math/discrete math/sequences, mi and recursion/Mathematical Induction.md",
+            "mode": "preview"
+          }
         },
         "group": "43540d7bdcd6e890"
       }
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/discrete math/sequences, mi and recursion/Mathematical Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/discrete math/sequences, mi and recursion/Mathematical Induction.md"
+              }
             }
           }
         ]
