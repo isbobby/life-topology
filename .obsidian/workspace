@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2121cc719545c6",
+        "id": "d3f16087a86c7985",
         "type": "leaf",
-        "dimension": 50.417469492613996,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Todo Log.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "a6b61ae503865d11"
+        "group": "43540d7bdcd6e890"
       },
       {
-        "id": "a9ad76f2770901a2",
+        "id": "a2a78cc674e06545",
         "type": "leaf",
-        "dimension": 49.582530507386,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Todo Log.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "a6b61ae503865d11"
+        "group": "43540d7bdcd6e890"
       }
     ],
     "direction": "vertical"
@@ -83,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo Log.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -124,17 +113,17 @@
     "direction": "horizontal",
     "width": 233.266845703125
   },
-  "active": "4a2121cc719545c6",
+  "active": "d3f16087a86c7985",
   "lastOpenFiles": [
-    "Todo Log.md",
-    "software engineering/DevOps and SRE/Datadog/Datadog.md",
+    "math/discrete math/sequences, mi and recursion/Mathematical Induction.md",
+    "math/discrete math/quantified statements/Logic of Quantified Statements.md",
+    "math/discrete math/sequences, mi and recursion/Sequences, Mathematical Induction, and Recursion.md",
+    "math/discrete math/sequences, mi and recursion/Sequences.md",
+    "math/Calculus.md",
+    "math/discrete math/Discrete Math.md",
+    "computer science/databases/Databases.md",
+    "computer science/databases/Information Integration.md",
     "Main.md",
-    "computer science/operating system/computer system overview/Memory Hierarchy.md",
-    "computer science/operating system/computer system overview/Computer System Overview.md",
-    "computer science/operating system/computer system overview/Interrupts.md",
-    "computer science/operating system/Operating Systems.md",
-    "computer science/Computer Science Fundamentals.md",
-    "README.md",
-    "computer science/operating system/memory/Memory Management.md"
+    "Todo Log.md"
   ]
 }
