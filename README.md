@@ -1,5 +1,5 @@
 # life-topology
-A learnt mental model of the world.
+A learned mental model of the world.
 
 ## How to use
 1. Download [obsidian](https://obsidian.md/)

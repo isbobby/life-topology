@@ -125,6 +125,7 @@
   "active": "d3f16087a86c7985",
   "lastOpenFiles": [
     "math/discrete math/sequences, mi and recursion/Mathematical Induction.md",
+    "math/discrete math/quantified statements/Logic of Quantified Statements.md",
     "math/discrete math/sequences, mi and recursion/Sequences, Mathematical Induction, and Recursion.md",
     "math/discrete math/sequences, mi and recursion/Sequences.md",
     "math/Calculus.md",
@@ -132,7 +133,6 @@
     "computer science/databases/Databases.md",
     "computer science/databases/Information Integration.md",
     "Main.md",
-    "Todo Log.md",
-    "software engineering/DevOps and SRE/Datadog/Datadog.md"
+    "Todo Log.md"
   ]
 }
